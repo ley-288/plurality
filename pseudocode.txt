@@ -1,0 +1,12 @@
+user inputs candidates on mainline
+    -stacks to store arrays as names and numbers.
+user prompted for inputs. number of voters
+    -user inputs 4 votes, stored in array.
+user prompted for votes (4)
+    -asked 4x for 4 votes.
+computer must perform loop
+conputer must perform linear search through the candidates and votes
+apply an if.. bool..
+print.. an invalid
+else.. print.. winner
+computer outputs winner.
